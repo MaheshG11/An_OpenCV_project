@@ -15,3 +15,5 @@ About the code:
 	  Black and Pink-Peach respectively.
 	4.There will be a error saying divided by zero encountered ignore it
 	5.Most of the times the Output will be opened in background
+
+NOTE:- Always Place Data and main.py in SAME directory
